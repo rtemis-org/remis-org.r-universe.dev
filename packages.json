@@ -2,5 +2,9 @@
   {
     "package": "rtemis",
     "url": "https://github.com/rtemis-org/rtemis"
+  },
+  {
+    "package": "rtemisutils",
+    "url": "https://github.com/rtemis-org/rtemisutils"
   }
 ]
