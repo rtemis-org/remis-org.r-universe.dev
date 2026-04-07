@@ -4,6 +4,10 @@
     "url": "https://github.com/rtemis-org/rtemis"
   },
   {
+    "package": "rtemis.core",
+    "url": "https://github.com/rtemis-org/rtemis.core"
+  },
+  {
     "package": "rtemis.a3",
     "url": "https://github.com/rtemis-org/a3",
     "subdir": "r"
