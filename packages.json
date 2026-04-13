@@ -8,16 +8,21 @@
     "url": "https://github.com/rtemis-org/rtemis.core"
   },
   {
-    "package": "rtemis.a3",
-    "url": "https://github.com/rtemis-org/a3",
-    "subdir": "r"
+    "package": "rtemis.utils",
+    "url": "https://github.com/rtemis-org/rtemis.utils"
   },
   {
     "package": "rtemis.bio",
     "url": "https://github.com/rtemis-org/rtemis.bio"
   },
   {
-    "package": "rtemis.utils",
-    "url": "https://github.com/rtemis-org/rtemis.utils"
+    "package": "rtemis.a3",
+    "url": "https://github.com/rtemis-org/a3",
+    "subdir": "r"
+  },
+  {
+    "package": "rtemis.draw",
+    "url": "https://github.com/rtemis-org/draw",
+    "subdir": "r"
   }
 ]
