@@ -8,14 +8,6 @@
     "url": "https://github.com/rtemis-org/rtemis.core"
   },
   {
-    "package": "rtemis.utils",
-    "url": "https://github.com/rtemis-org/rtemis.utils"
-  },
-  {
-    "package": "rtemis.bio",
-    "url": "https://github.com/rtemis-org/rtemis.bio"
-  },
-  {
     "package": "rtemis.a3",
     "url": "https://github.com/rtemis-org/a3",
     "subdir": "r"
