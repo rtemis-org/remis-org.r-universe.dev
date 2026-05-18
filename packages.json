@@ -3,13 +3,9 @@
     "package": "rtemis",
     "url": "https://github.com/rtemis-org/rtemis"
   },
-  {
-    "package": "rtemis.core",
-    "url": "https://github.com/rtemis-org/rtemis.core"
-  },
-  {
-    "package": "rtemis.a3",
-    "url": "https://github.com/rtemis-org/a3",
+   {
+    "package": "rtemis.llm",
+    "url": "https://github.com/rtemis-org/llm",
     "subdir": "r"
   },
   {
@@ -18,8 +14,16 @@
     "subdir": "r"
   },
   {
-    "package": "rtemis.llm",
-    "url": "https://github.com/rtemis-org/llm",
+    "package": "rtemis.a3",
+    "url": "https://github.com/rtemis-org/a3",
     "subdir": "r"
-  }
+  },
+  {
+    "package": "rtemis.server",
+    "url": "https://github.com/rtemis-org/rtemis.server"
+  },
+  {
+    "package": "rtemis.core",
+    "url": "https://github.com/rtemis-org/rtemis.core"
+  },
 ]
